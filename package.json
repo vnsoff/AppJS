@@ -1,0 +1,11 @@
+{
+  "name": "AppJS",
+  "version": "1.0.0",
+  "description": "Data analyzer",
+  "main": "main.js",
+  "author": "Vanessa Felix Christoff",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "19.0.0"
+  }
+}
